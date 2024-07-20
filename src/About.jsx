@@ -37,7 +37,7 @@ export default function About() {
             </p>
             <p className="text-gray-800">
               Let’s connect and explore how we can work together to create
-              impactful solutions and drive positive change!
+              impactful solutions and drive positive change!!
             </p>
           </div>
           <div className="mt-8">
